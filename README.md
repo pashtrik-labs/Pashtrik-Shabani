@@ -50,5 +50,5 @@ My methodology focuses on the complete security lifecycle: **Architecting** the 
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/pashtrik-shabani-93928b31b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pashtrik-shabani-93928b31b/)
 
