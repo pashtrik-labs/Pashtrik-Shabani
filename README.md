@@ -19,6 +19,7 @@ My methodology focuses on the complete security lifecycle: **Architecting** the 
 * **Introduction to Programming Using Java** | *UBT Professional School* (2022)
   * Credential ID: 19828/2-10 (30 Hours Training)
   * Skills: Object-Oriented Programming (OOP), Data Structures, Java Syntax.
+
 ---
 
 ## Featured Security Research & Projects
@@ -43,6 +44,28 @@ My methodology focuses on the complete security lifecycle: **Architecting** the 
 *A hybrid physical and virtual infrastructure designed for traffic analysis and network segmentation.*
 * **Infrastructure:** Combined physical hardware nodes with virtualized environments to simulate enterprise-level network complexities.
 * **Simulations:** Focused on network segmentation bypassing, internal attack simulation, service enumeration, and centralized logging to analyze the traffic signatures of common exploitation tools.
+
+---
+
+## 🛡️ Red Team Laboratory & Adversarial Research
+
+I maintain a high-performance, isolated virtualization environment designed for **adversarial simulation** and **security research**. This multi-node lab allows me to safely execute and analyze complex attack vectors across physical and virtual systems.
+
+### **Multi-Node Lab Architecture**
+* **Hypervisor:** **Proxmox VE** (Type-1 Hypervisor) – Dedicated server hosting a variety of "Victim" VMs, legacy Windows systems, and my custom **PayGearPlan** (PHP/MySQL) testing environment.
+* **Primary Attacker (Node 1):** **HP ZBook** (Ubuntu/Kali Linux) – Optimized for high-speed network reconnaissance, vulnerability scanning, and payload delivery.
+* **Secondary Attacker (Node 2):** **Dell Latitude** (Kali Linux VM) – Utilized for coordinated brute-force attacks and testing concurrent adversarial persistence.
+* **Support Node:** **Toshiba Laptop** – Used for real-time monitoring, documentation, and traffic capture analysis.
+
+### **Research & Testing Focus**
+* **Coordinated Adversarial Simulations:** Utilizing the dual-node setup (HP & Dell) to simulate multi-vector attacks and distributed brute-forcing.
+* **Exploitation & Malware Analysis:** Executing malicious payloads within a Proxmox sandbox to analyze execution patterns and persistence mechanisms.
+* **Web Application Pentesting:** Using custom PHP/MySQL projects as targets to identify SQL Injection (SQLi) and Cross-Site Scripting (XSS).
+* **Network Pivoting & Lateral Movement:** Simulating movement across segmented virtual subnets to understand how attackers escalate access within a network.
+* **Traffic Analysis:** Monitoring "East-West" traffic between nodes to identify attack signatures and refine detection logic.
+
+> [!IMPORTANT]
+> **Ethics & Safety:** All activities are conducted within a strictly isolated, host-only network. This lab is used exclusively for educational purposes, skill development, and authorized white-hat security research.
 
 ---
 
