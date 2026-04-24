@@ -13,7 +13,12 @@ My methodology focuses on the complete security lifecycle: **Architecting** the 
 * **Web Development:** PHP 8, MySQL / MariaDB, JavaScript, HTML5/CSS3
 * **Networking & Infrastructure:** TCP/IP, Subnetting, VLANs, Virtualization (VirtualBox, Proxmox, Host-Only/NAT)
 * **Defense & Remediation:** OWASP Top 10, Prepared Statements, Input Sanitization, BCrypt/Argon2 Hashing
-
+* **Python Essentials 1** | *Cisco Networking Academy* (2026)
+  * [Verify Certification](https://www.credly.com/badges/882c2934-0fb7-48db-a9dd-e2b187dddeb5/public_url)
+  * Skills: Procedural Programming, Algorithmic Logic, Python Data Structures.
+* **Introduction to Programming Using Java** | *UBT Professional School* (2022)
+  * Credential ID: 19828/2-10 (30 Hours Training)
+  * Skills: Object-Oriented Programming (OOP), Data Structures, Java Syntax.
 ---
 
 ## Featured Security Research & Projects
